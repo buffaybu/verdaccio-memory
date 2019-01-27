@@ -36,7 +36,7 @@
     "@verdaccio/types": "beta",
     "codecov": "3.0.4",
     "cross-env": "5.2.0",
-    "eslint": "5.6.1",
+    "eslint": "5.12.1",
     "eslint-config-google": "0.10.0",
     "eslint-config-prettier": "3.1.0",
     "eslint-plugin-jest": "21.24.1",
